@@ -1,21 +1,20 @@
-## Semantic Python - a collection of python tools for **Ontology development** and **Semantic Data** / **Semantic Web**
+## **Semantic Python** - a collection of python tools for **Ontology development** and **Semantic Data** / **Semantic Web**
 
 Modern science relies on collaboration and exchange of data and knowledge.
-This exchange of information is far from perfect: In many cases data is not well annotated and hard to understands by machines.
+This exchange of information is far from perfect: In many cases data is not well annotated and hard to understand by machines.
 
 Experiments are often not reproducible in other labs or the wheel is reinvented, because a precise language for scientific experiments is lacking 
-and searching in data very complicated.
+and searching in data is very complicated.
 
-Many semantic tools had been developed in the first two "semantic web" phases in the late 90s and early 2000, mostly in JAVA, a programming language
-that was popular at that time.
+Many semantic tools had been developed in the first two "semantic web" phases, the late 90s and early 2000, mostly in JAVA, a confusing programming language that gained some popularity at that time.
 
-Python matured to a "lingua franca" in science, because of its elegance and closeliness to written English.
+**Python** matured nowadays to a "*lingua franca*" in science, because of its elegance and closeliness to written English.
 
-Unfortunately there are not too many mature python based tools for ontology development and semantic annotations.
-Also common interfaces for metadata exchanges are lacking.
+Unfortunately there are not too many mature python based tools for ontology development, semantic (meta-)data handling and annotation.
+Also common interfaces for metadata exchange and logic reasoning are missing.
+Logic reasoners are behind current speed / size demands and technical possibilities.
 
-SemanticPy tries to bridge this gap (and high demand) and tries to develop powerful tools to make working with ontologies as 
-easy and convenient as possible.
+**SemanticPy** tries to bridge this gap (and high demand) and tries to develop powerful tools to make working with ontologies and semantically annotated data as easy and convenient as possible. 
 
 
 <!--
