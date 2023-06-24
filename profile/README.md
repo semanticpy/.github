@@ -1,3 +1,9 @@
+
+**!! We joined forces and moved our development to [https://github.com/pysemtec](https://github.com/pysemtec)**
+
+This group will currently remain as a proxy.
+
+
 ## **Semantic Python** - a collection of python tools for **Ontology development** and **Semantic Data** / **Semantic Web**
 
 Modern science relies on collaboration and exchange of data and knowledge.
@@ -15,6 +21,9 @@ Also common interfaces for metadata exchange and logic reasoning are missing.
 Logic reasoners are behind current speed / size demands and technical possibilities.
 
 **SemanticPy** tries to bridge this gap (and high demand) and tries to develop powerful tools to make working with ontologies and semantically annotated data as easy and convenient as possible. 
+
+
+**!! We joined forces and moved our development to [https://github.com/pysemtec](https://github.com/pysemtec)**
 
 
 <!--
